@@ -1,5 +1,5 @@
 // API 設定
-const API_URL = "https://api.rezio.io/v1/your_endpoint"; // 替換為正確的 API 端點
+const API_URL = "https://api.rezio.io/v1/product/list"; // 替換為正確的 API 端點
 const API_KEY = "3200cdb3b2122d6cea5cc7feb968eb69"; // 你的 Rezio API 金鑰
 const UUID = "8a5230a0-c31d-423c-97fd-b2915e662245"; // 你的 UUID
 
